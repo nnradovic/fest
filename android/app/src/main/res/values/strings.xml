@@ -1,3 +1,4 @@
-<resources>
-    <string name="app_name">fest</string>
-</resources>
+ <resources>
+     <string name="app_name">fest</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">MQ5mZXDMPiqiK2565yarWrSvWFNmVsr95zTFZ</string>
+ </resources>
